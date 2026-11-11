@@ -1,0 +1,28 @@
+raw_data/
+logs/
+conda/
+reference/
+
+# Raw data and reference files
+raw_data
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.fa
+*.fa.gz
+*.gtf
+*.gtf.gz
+*.ht2
+ 
+# Alignment files
+*.sam
+*.bam
+*.bai
+ 
+# Large outputs
+fastqc/*.zip
+*.log
+slurm-*.out
+ 
+*.err
+*.out
