@@ -2,6 +2,7 @@ raw_data/
 logs/
 conda/
 reference/
+results/
 
 # Raw data and reference files
 raw_data
