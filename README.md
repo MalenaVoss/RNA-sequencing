@@ -8,6 +8,21 @@ between two experimental groups, and identify gene ontology (GO) terms enriched 
 **Author: Malena Voss** <br>
 **Tissue Analyzed: Lung**
 
+Group definitions:
+
+- Case = Infected
+- Control = Uninfected
+- WT = Wildtype
+- DKO = Double-Knockout
+
+| Genotype | Condition | Number of samples |
+|---|---|---:|
+| WT | Case | 5 |
+| WT | Control | 3 |
+| DKO | Case | 4 |
+| DKO | Control | 2 |
+| **Total**  | | **14** |
+
 ## Workflow and tools used 
 | Step | Description | Tool |  
 |---|---|---|
