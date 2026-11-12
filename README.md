@@ -6,6 +6,7 @@ between two experimental groups, and identify gene ontology (GO) terms enriched 
 
 **Course: 467713-HS2026: RNA-sequencing** <br>
 **Author: Malena Voss** <br>
+**Species: Mus musculus** <br>
 **Tissue Analyzed: Lung**
 
 Group definitions:
