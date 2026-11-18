@@ -8,19 +8,20 @@
 #SBATCH --output=logs/featurecounts_%j.out
 #SBATCH --error=logs/featurecounts_%j.err
 
-# get featureCounts
+#get featureCounts
 SIF=/containers/apptainer/subread_2.0.6.sif
 
 #sorted BAM files
 BAM_DIR=results/04_mapping
 
+#get reference GTF file
 gunzip -k reference/Mus_musculus.GRCm39.*.gtf.gz
 GTF=$(ls reference/Mus_musculus.GRCm39.*.gtf)
 
 #make output dir
 mkdir -p results/05_counts
 
-# run featureCounts
+#run featureCounts
 apptainer exec --bind /data/ $SIF \
     featureCounts -T 8 \
     -p --countReadPairs \
