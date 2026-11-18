@@ -1,0 +1,15 @@
+Status	results/04_mapping/SRR7821918.sorted.bam	results/04_mapping/SRR7821919.sorted.bam	results/04_mapping/SRR7821920.sorted.bam	results/04_mapping/SRR7821921.sorted.bam	results/04_mapping/SRR7821922.sorted.bam	results/04_mapping/SRR7821923.sorted.bam	results/04_mapping/SRR7821924.sorted.bam	results/04_mapping/SRR7821925.sorted.bam	results/04_mapping/SRR7821927.sorted.bam	results/04_mapping/SRR7821937.sorted.bam	results/04_mapping/SRR7821938.sorted.bam	results/04_mapping/SRR7821939.sorted.bam	results/04_mapping/SRR7821940.sorted.bam	results/04_mapping/SRR7821941.sorted.bam	results/04_mapping/SRR7821942.sorted.bam
+Assigned	29006810	28572407	28940829	31837450	29521600	30047410	42606177	26478070	24010252	35875033	34101607	37372339	28566598	31903331	35156083
+Unassigned_Unmapped	171817	141927	999409	183186	165970	706696	483040	507428	415252	258581	343011	131740	473434	242342	199993
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	6722007	6560225	9235284	7351077	7004614	7694979	9409484	6673810	6584111	8220236	5383042	8861089	7125292	6800187	7301121
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2439035	2955507	4639068	3340700	3317056	3091612	5198315	3625646	3326175	3650146	2535624	3880782	3433675	3022030	3870304
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	797818	836155	691920	971304	795923	661158	1021869	484094	567794	704081	698167	696038	583481	579120	844734
